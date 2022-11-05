@@ -1,3 +1,5 @@
-# git-command-practice
+# Aston 1st
 
-- the good online service to up your git command skills is [here](https://learngitbranching.js.org)
+### git-command-practice
+
+> the good online service to up the git command skills is [here](https://learngitbranching.js.org)
